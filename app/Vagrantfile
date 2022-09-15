@@ -1,6 +1,6 @@
 # Vmware
 # --------------------------------------------------------------
-
+#  Hello test
 Vagrant.configure("2") do |config|
   # Provisiing MongoDB
   config.vm.define "mongodb" do |mongodb|
